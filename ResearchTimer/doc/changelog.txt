@@ -1,3 +1,6 @@
+2022-09-27  v2.1.7
+	- Bumped API to support Firesong  (101036)
+
 2022-08-25  v2.1.7
 	- Bumped API to support Lost Depths (101035)
 

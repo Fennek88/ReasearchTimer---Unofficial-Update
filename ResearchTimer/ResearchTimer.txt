@@ -6,12 +6,12 @@
 ;
 ;This is a modified reupload by Fennek since the original AddOn was not updated for over 3 years.
 
-## Title: |c96FF00Research Timer|r - |c96FF00 v2.1.7|r
+## Title: |c96FF00Research Timer|r - |c96FF00 v2.1.8|r
 ## Description: Lightweight UI Addon that shows your current Crafting research timers
-## APIVersion: 101035
+## APIVersion: 101035 101036
 ## SavedVariables: ResearchTimer
-## Version: 2.1.7
-## AddOnVersion: 201070
+## Version: 2.1.8
+## AddOnVersion: 201080
 ## Author: hisdad, Fennek
 
 
